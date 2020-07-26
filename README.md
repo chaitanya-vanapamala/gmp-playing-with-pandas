@@ -3,4 +3,4 @@
  
 The Data set is taken from Kaggle https://www.kaggle.com/c/titanic/data
 
-Please find the explanation and documentation for the code here : https://greymatterpro.in/datascience/playing-with-pandas/
+Please find the explanation and documentation for the code here : https://greymatterpro.in/datascience/playing-with-data-using-pandas/
